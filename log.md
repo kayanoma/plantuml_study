@@ -1,13 +1,14 @@
 # plantUMLの勉強ログ
 
-## メモ
+<!-- ## メモ
 imagesブランチに画像ファイルを作成、それを参照して画像を埋め込む
 md中にソースの埋め込みはしない
-![リンク参考](https://github.com/kaitas/PlantUML-Study/blob/images/kawaiiPlantUML.png?raw=true "サンプル画像のレンダリング結果")
+![リンク参考](https://github.com/kaitas/PlantUML-Study/blob/images/kawaiiPlantUML.png?raw=true "サンプル画像のレンダリング結果") -->
 
 ## 拡張機能について
 以下のソースコードが@startumlから始まっている場合は[こちら](https://chrome.google.com/webstore/detail/pegmatite/jegkfbnfbfnohncpcfcimepibmhlkldo)のchrome拡張機能を利用するとumlの画像が表示されるようになります。
 拡張機能により画像表示されているソースコードは該当画像をダブルクリックすることで元のソースを見ることができます
+### このページでは拡張機能をオフにしてください
 ```plantuml
 @startuml
 (Hello World!!)
