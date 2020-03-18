@@ -26,6 +26,7 @@ class Hello_World!!{
 }
 @enduml
 ```
+![](https://github.com/kayanoma/plantuml_study/blob/images/images/helloworld.png?raw=true "メソッド化に注意")
 
 ## 注意
 - 画像はモノによってはかなり重くなる、previewが使い物にならなくなるので注意（縦横のサイズが重要か？, webページだと重かったのでTwitterのアイコンから引っ張ってきた）
@@ -126,3 +127,4 @@ hide <<after>> stereotype
 
 @enduml
 ```
+![](https://github.com/kayanoma/plantuml_study/blob/images/images/kawabo.png?raw=true "まとめ")
